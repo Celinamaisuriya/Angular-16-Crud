@@ -1,0 +1,100 @@
+{
+  "employee": [
+    {
+      "firstname": "Celi",
+      "lastname": "Maisuriya",
+      "email": "celi@gmail.com",
+      "dob": "2001-02-23T18:30:00.000Z",
+      "gender": "female",
+      "education": "MCA",
+      "companyname": "Mittal",
+      "experience": 1,
+      "package": 20.5,
+      "id": 1
+    },
+    {
+      "firstname": "Rashmi",
+      "lastname": "Maisuriya",
+      "email": "rashmi@gmail.com",
+      "dob": "1982-06-28T18:30:00.000Z",
+      "gender": "female",
+      "education": "BA",
+      "companyname": "Dignizant",
+      "experience": 2,
+      "package": 5,
+      "id": 2
+    },
+    {
+      "firstname": "Jeremi",
+      "lastname": "Patel",
+      "email": "jeremi@gmailcom",
+      "dob": "2006-12-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "BCA",
+      "companyname": "L.P Savani",
+      "experience": 13,
+      "package": 25,
+      "id": 3
+    },
+    {
+      "firstname": "Divi",
+      "lastname": "Maisuriya ",
+      "email": "divi@gmail.com",
+      "dob": "1989-09-24T18:30:00.000Z",
+      "gender": "male",
+      "education": "BSC",
+      "companyname": "CAPGEMINI",
+      "experience": 10,
+      "package": "25",
+      "id": 4
+    },
+    {
+      "firstname": "Jimin",
+      "lastname": "Park",
+      "email": "jimin@gmail.com",
+      "dob": "1995-10-12T18:30:00.000Z",
+      "gender": "male",
+      "education": "MCA",
+      "companyname": "Big Hit",
+      "experience": 11,
+      "package": 36,
+      "id": 5
+    },
+    {
+      "firstname": "Reema",
+      "lastname": "Suvagiya",
+      "email": "reema@gmail.com",
+      "dob": "2001-09-29T18:30:00.000Z",
+      "gender": "female",
+      "education": "BCA",
+      "companyname": "Natrix",
+      "experience": 1,
+      "package": 6,
+      "id": 6
+    },
+    {
+      "firstname": "User",
+      "lastname": "Software",
+      "email": "user@gmail.com",
+      "dob": "2023-10-09T18:30:00.000Z",
+      "gender": "female",
+      "education": "MSCITC",
+      "companyname": "abc",
+      "experience": 6,
+      "package": 9,
+      "id": 7
+    },
+    {
+      "firstname": "V",
+      "lastname": "D",
+      "email": "vd@gmail.com",
+      "dob": "2001-09-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "MSCITC",
+      "companyname": "NISL",
+      "experience": 0,
+      "package": 35,
+      "id": 8
+    }
+  ]
+}
